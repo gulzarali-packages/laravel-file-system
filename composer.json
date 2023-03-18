@@ -1,0 +1,20 @@
+{
+    "name": "gulzarali/laravel-file-system",
+    "description": "Wrapper for laravel storage library to upload, copy and delete files in simple and object oriented way.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "GulzarAli\\LaravelFileSystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gulzar Ali",
+            "email": "aligulzar375@gmail.com"
+        }
+    ],
+    "require": {
+        "league/flysystem-aws-s3-v3": "^3.12",
+        "webpatser/laravel-uuid": "^4.0"
+    }
+}
