@@ -15,8 +15,7 @@
     ],
     "require": {
         "league/flysystem-aws-s3-v3": "^3.12",
-        "webpatser/laravel-uuid": "^4.0",
-        "gulzarali/laravel-file-system": "^1.0"
+        "webpatser/laravel-uuid": "^4.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
